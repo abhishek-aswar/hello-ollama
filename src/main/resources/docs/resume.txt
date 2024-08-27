@@ -1,0 +1,104 @@
+Resume
+
+Cherry Smith Resume
+7710 Kotz ct, charlotte, NC, 28269  
+Email: Cherry.Smith@example.com  
+Phone: (704) 456-7890  
+LinkedIn: linkedin.com/in/cherrysmith
+
+
+
+
+Professional Summary:
+
+Highly experienced Software Engineer with 20 years of expertise in Java, Spring, and architecture design and development. Proven track record of leading complex projects, optimizing system performance, and delivering scalable solutions. Adept at collaborating with cross-functional teams to drive innovation and achieve business objectives.
+
+
+
+
+Technical Skills:
+
+- Languages: Java, JavaScript, SQL
+- Frameworks: Spring, Spring Boot, Hibernate
+- Tools: Git, Maven, Jenkins, Docker
+- Architectures: Microservices, RESTful APIs, SOA
+- Databases: MySQL, PostgreSQL, Oracle
+- Cloud: AWS, Azure
+- Methodologies: Agile, Scrum, TDD
+
+
+
+
+Professional Experience:
+
+Senior Software Engineer  
+IBM Corporation, charlotte, NC  
+January 2015 – Present
+
+- Led the design and development of a microservices-based architecture for a large-scale enterprise application, improving scalability and maintainability.
+- Implemented Spring Boot and Spring Cloud to enhance application performance and reduce deployment times by 30%.
+- Collaborated with product managers and stakeholders to define technical requirements and project timelines.
+- Mentored junior developers, fostering a culture of continuous learning and improvement.
+
+Software Architect
+ABC Tech Solutions, Atlanta, GA  
+June 2008 – December 2014
+
+- Designed and implemented a robust SOA architecture for a financial services platform, resulting in a 40% increase in transaction processing speed.
+- Developed RESTful APIs using Spring MVC, enabling seamless integration with third-party services.
+- Conducted code reviews and performance tuning to ensure high-quality deliverables.
+- Coordinated with DevOps teams to streamline CI/CD pipelines and automate deployment processes.
+
+Senior Java Developer  
+Info Tech Solutions Inc., Chicago, Illinois  
+*March 2004 – May 2008*
+
+- Developed and maintained enterprise-level applications using Java and Spring framework.
+- Optimized database queries and implemented caching strategies to enhance application performance.
+- Participated in Agile ceremonies, contributing to sprint planning, daily stand-ups, and retrospectives.
+- Provided technical support and troubleshooting for production issues, ensuring minimal downtime.
+
+
+
+
+
+
+Education
+
+Master of Science in Computer Science  
+The University of Chicago, Chicago, Illinois  
+Graduated: May 2003
+
+Bachelor of Science in Computer Science  
+The University of Chicago, Chicago, Illinois  
+Graduated: May 2001
+
+
+
+
+
+
+Professional Certifications
+
+- Oracle Certified Professional, Java SE
+- AWS Certified Solutions Architect
+- Certified ScrumMaster (CSM)
+
+
+
+
+Projects
+
+E-commerce Platform Modernization  
+- Led the migration of a monolithic e-commerce platform to a microservices architecture, resulting in a 50% reduction in page load times and improved user experience.
+
+Real-time Analytics Dashboard  
+- Developed a real-time analytics dashboard using Spring Boot and Angular, providing actionable insights for business decision-making.
+
+
+
+
+
+Professional Affiliations
+- Member, Association for Computing Machinery (ACM)
+- Member, Java User Group (JUG)
